@@ -1,1 +1,3 @@
-# lenzner.github.io
+# Webpage Bernd Lenzner
+
+currently under construction
